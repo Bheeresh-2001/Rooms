@@ -1,0 +1,196 @@
+*{
+    margin: 0;
+    padding: 5px 30px 0 30px;
+}
+.h4{
+    font-size: 22px;
+    color: gray;
+}
+.p{
+    font-size: 19px;
+    color: gray;
+    margin-top: 10px;
+    text-align: justify;
+    line-height: 135%;
+}
+
+
+
+.duplex{
+    width: 30%;
+    height: 200px;
+    background-image: url(droom.jpg);
+    background-size: cover;
+    margin-left: 10%;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.dup{
+    width: 250px;
+    height: 100px;
+    border: 2px solid yellow;
+    background-color: black;
+    margin-left: 30px;
+    margin-top: 170px;
+    border-radius: 5px;
+}
+
+.duph{
+    color: darkgray;
+    text-align: center;
+    margin-top: -20px;
+}
+
+.pre{
+    width: 30%;
+    height: 199px;
+    background-image: url(proom.jpg);
+    background-size: cover;
+    border-radius: 5px;
+    margin-top: -205px;
+    margin-left: 53%;
+}
+
+.pr{
+    width: 300px;
+    height: 100px;
+    border: 2px solid yellow;
+    background-color: black;
+    margin-left: 10px;
+    margin-top: 170px;
+    border-radius: 5px;
+}
+
+.rp{
+    margin-top: -20px;
+    color: darkgray;
+    text-align: center;
+}
+
+.osuites{
+    width: 30%;
+    height: 199px;
+    background-image: url(s1.jpg);
+    background-size: cover;
+    border-radius: 5px;
+    margin-top: 125px;
+    margin-left: 10%;
+}
+
+.suite{
+    width: 300px;
+    height: 105px;
+    border: 2px solid yellow;
+    background-color: black;
+    margin-left: 10px;
+    margin-top: 170px;
+    border-radius: 5px;
+}
+
+.os{
+    color: darkgray;
+    text-align: center;
+    margin-top: -20px;
+}
+
+
+.presidential{
+    width: 30%;
+    height: 199px;
+    background-image: url(proom.jpg);
+    background-size: cover;
+
+    border-radius: 5px;
+    margin-top: -205px;
+    margin-left: 53%;
+}
+
+.president{
+    width: 300px;
+    height: 110px;
+    border: 2px solid yellow;
+    background-color: black;
+    margin-left: 10px;
+    margin-top: 170px;
+    border-radius: 5px;
+}
+
+.pres1{
+    font-size: 20px;
+    color: darkgray;
+    text-align: center;
+    margin-top: -20px;
+}
+
+.pres{
+    color: darkgray;
+    text-align: center;
+    margin-top: -20px;
+}
+
+.ih1{
+    margin-top: 10%;
+}
+.loc{
+    width: 100px;
+    height: 100px;
+    margin-left: 3%;
+}
+
+.mp{
+    color: darkgray;
+}
+
+.phone{
+    width: 110px;
+    height: 110px;
+    margin-left: 30%;
+    /* margin-left: -500px; */
+}
+
+.mail{
+    width: 110px;
+    height: 110px;
+    margin-left: 20%;
+    margin-top: -100px;
+}
+
+.ph3{
+    margin-left: 500px;
+    margin-top: -65px;
+    color: darkgray;
+}
+
+
+.fb{
+    width: 55px;
+    margin-top: -50px;
+}
+
+.ins{
+    width: 63px;
+    margin-left: -80px;
+}
+
+
+.mh3{
+    margin-left: 895px;
+    margin-top: -25px;
+    color: darkgray;
+}
+
+.black{
+    width: 100%;
+    height: 25px;
+    background-color: black;
+    margin-top: 10px;
+    margin-left: -18px;
+}
+
+pre{
+    color: darkgray;
+    margin-top: -3px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
